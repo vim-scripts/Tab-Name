@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1678
+
+Suppose you have tab pages with same buffer for edit but with different line positions. How are you going to find correct tab page? 
+What about tabpages with splitted windows?
+
+:TName 'tab_page_name' - set name of tab-page
+:TNoName - remove tab page name
